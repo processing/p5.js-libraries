@@ -15,7 +15,7 @@ p5.js welcomes libraries contributed by others! <a href="https://github.com/proc
     - (Optional) `npmFilePath`: A path like `'dist/library.min.js'` if a specific file in the library should be used from npm. You can test this out by going to `https://cdn.jsdelivr.net/npm/packageName` -- if that doesn't work, try `https://cdn.jsdelivr.net/npm/packageName/path/to/file.js` and put the path you added into this property
     - `featuredImage`: An object about the preview thumbnail for the library, with `url`, the path to the image in the `src/content/libraries/images` folder, and `altText`, a short description of its contents for screen readers
     - (Optional) `license`: A <a href="https://docs.npmjs.com/cli/v10/configuring-npm/package-json#license">string describing the software license of the library.</a> This may be omitted if your package is on npm and has license info there
-4. Add a **1500x1000** image of your library into `libraries/images`
+4. Add a **high-res colored image of 1500x1000px at 144dpi** of your library into `libraries/images`
 5. Submit a pull request and we'll review your submission
 
 We add libraries that are open-source, includes some documentation and examples, and <a href="https://github.com/processing/p5.js/blob/main/CODE_OF_CONDUCT.md">follow our code of conduct.</a>
