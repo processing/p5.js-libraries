@@ -3,7 +3,7 @@
 p5.js welcomes libraries contributed by others! <a href="https://github.com/processing/p5.js/blob/main/contributor_docs/creating_libraries.md">Check out the libraries tutorial</a> for more specifics about how to create one. If you have created a library and would like to have it included in the list, follow the instructions below!
 
 1. Fork the repo
-2. Add a file to the `libraries` folder named `yourLibraryName.yaml`
+2. Add a file to the `libraries` folder named `yourLibraryName.yaml` (or consider <a href="https://github.com/processing/p5.js-libraries/blob/main/libraries/p5.warp.yaml">copying an existing library</a> as a starting point)
 3. Inside it, add the following content:
     - `name`: The name of the library
     - `category`: A category that you think best fits your library. Your choices include: `drawing`, `color`, `ui`, `math`, `physics`, `algorithms`, `3d`, `ai-ml-cv`, `animation`, `filters`, `language`, `hardware`, `sound`, `data`, `networking`, `export`, or `utils`.
