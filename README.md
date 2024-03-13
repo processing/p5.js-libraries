@@ -6,7 +6,7 @@ p5.js welcomes libraries contributed by others! <a href="https://github.com/proc
 2. Add a file to the `libraries` folder named `yourLibraryName.yaml` (or consider <a href="https://github.com/processing/p5.js-libraries/blob/main/libraries/p5.warp.yaml">copying an existing library</a> as a starting point)
 3. Inside it, add the following content:
     - `name`: The name of the library
-    - `category`: A category that you think best fits your library. Your choices include: `drawing`, `color`, `ui`, `math`, `physics`, `algorithms`, `3d`, `ai-ml-cv`, `animation`, `filters`, `language`, `hardware`, `sound`, `data`, `networking`, `export`, or `utils`.
+    - `category`: A category that you think best fits your library. Your choices include: `drawing`, `color`, `ui`, `math`, `physics`, `algorithms`, `3d`, `ai-ml-cv`, `animation`, `shaders`, `language`, `hardware`, `sound`, `data`, `networking`, `export`, or `utils`.
     - `description`: A one-sentence description of the library
     - `author`: An object containing `name`, your name, and `url`, an optional link to your website
     - `sourceUrl`: A link to the library's source code (e.g. its repo on GitHub or GitLab)
