@@ -1,0 +1,14 @@
+name: WEBMIDI.js
+description: A user-friendly library that makes it easy to send and receive MIDI messages.
+category: sound
+sourceUrl: https://github.com/djipco/webmidi
+websiteUrl: https://webmidijs.org/
+featuredImage:
+  url: webmidi.js.png
+  altText: Kickstart your JavaScript MIDI projects!
+author:
+  name: Jean-Philippe Côté
+  url: https://djip.co
+npm: webmidi
+npmFilePath: dist/iife/webmidi.iife.min.js
+license: Apache-2.0
