@@ -10,4 +10,4 @@ npmFilePath: ffd8/hy5@main/hy5.js
 featuredImage:
   url: hy5.jpg
   altText: p5.js spheres with texture from hydra and 'HY5' text, processed a second time with hydra.
-license: MIT
+license: GNU General Public License v3.0
