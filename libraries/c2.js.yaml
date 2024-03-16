@@ -1,5 +1,5 @@
 name: c2.js
-category: math, physics, algorithms
+category: algorithms
 description: c2.js is a JavaScript library for creative coding based on computational geometry, physics simulation, evolutionary algorithm and other modules.
 author:
   name: Ren Yuan
