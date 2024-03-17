@@ -1,0 +1,12 @@
+name: p5.tween
+description: With p5.tween you can create easily animations as tween in a few keyframes.
+category: 2d
+sourceUrl: https://github.com/Milchreis/p5.tween
+featuredImage:
+  url: p5.tween.png
+  altText: four gray squares in a row, with increasing brightness, on a dark background
+author:
+  name: Nick Müller
+  url: https://github.com/Milchreis
+npm: p5.tween
+license: MIT
