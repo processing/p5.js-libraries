@@ -1,6 +1,6 @@
 name: p5.tween
 description: With p5.tween you can create easily animations as tween in a few keyframes.
-category: 2d
+category: animation
 sourceUrl: https://github.com/Milchreis/p5.tween
 featuredImage:
   url: p5.tween.png
