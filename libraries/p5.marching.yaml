@@ -1,10 +1,10 @@
 name: p5.marching
-description: marching squares for p5.js
+description: Raster to vector conversion, isosurfaces.
 category: drawing
 sourceUrl: https://github.com/jtnimoy/marching
 featuredImage:
   url: p5.marching.png
-  altText: Screenshot of p5.marching noise example.
+  altText: A noise pattern with outlines of pixels with the same grayscale value.
 author:
   name: JT Nimoy
   url: https://jtnimoy.cc
