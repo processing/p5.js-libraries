@@ -8,7 +8,7 @@ p5.js welcomes libraries contributed by others! <a href="https://github.com/proc
     - `name`: The name of the library
     - `category`: A category that you think best fits your library. Your choices include: `drawing`, `color`, `ui`, `math`, `physics`, `algorithms`, `3d`, `ai-ml-cv`, `animation`, `shaders`, `language`, `hardware`, `sound`, `data`, `networking`, `export`, or `utils`.
     - `description`: A one-sentence description of the library
-    - `author`: An object containing `name`, your name, and `url`, an optional link to your website
+    - `author`: An object containing `name`, your name, and `url`, an optional link to your website. If there are multiple authors, use an array of author objects.
     - `sourceUrl`: A link to the library's source code (e.g. its repo on GitHub or GitLab)
     - (Optional) `websiteUrl`: A link to a website for the library
     - (Optional) `npm`: If applicable, the package name for the library on <a href="https://www.npmjs.com/">npm</a>
