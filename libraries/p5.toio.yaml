@@ -5,6 +5,7 @@ sourceUrl: https://github.com/tetunori/p5.toio
 featuredImage:
   url: p5.toio.png
   altText: A logo and cube-shaped symbol of 'p5.toio' library are placed in the center.
+author:
   name: Tetsunori Nakayama
   url: https://github.com/tetunori
 websiteUrl: https://tetunori.github.io/p5.toio/

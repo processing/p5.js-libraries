@@ -5,6 +5,7 @@ sourceUrl: https://github.com/tetunori/p5.simpleAR
 featuredImage:
   url: p5.simpleAR.png
   altText: A logo and description of 'p5.simpleAR' library are placed in the center.
+author:
   name: Tetsunori Nakayama
   url: https://github.com/tetunori
 license: MIT
