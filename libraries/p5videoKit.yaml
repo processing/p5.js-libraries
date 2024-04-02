@@ -1,6 +1,6 @@
 name: p5videoKit
 description: A dashboard for mixing video in the browser
-category: video, shaders
+category: algorithms
 sourceUrl: https://github.com/molab-itp/p5videoKit
 featuredImage:
   url: p5videokit.jpeg
