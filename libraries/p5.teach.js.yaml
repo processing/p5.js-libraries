@@ -4,7 +4,7 @@ category: math
 sourceUrl: https://github.com/two-ticks/p5.teach.js
 featuredImage:
   url: p5.teach.js.png
-  altText: 
+  altText: Wave equation on the upper left corner and right upper corner has a graph of cosine function plus some polynomial terms. A logo and description of 'p5.teach.js' library are placed in the center.
 author:
   name: [Aditya Siddheshwar, Nick McIntyre, Jithin KS]
   url: [https://two-ticks.github.io/, https://mcintyre.io/, https://jithinks.netlify.app/]
