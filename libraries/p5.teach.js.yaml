@@ -6,5 +6,9 @@ featuredImage:
   url: p5.teach.js.png
   altText: Wave equation on the upper left corner and right upper corner has a graph of cosine function plus some polynomial terms. A logo and description of 'p5.teach.js' library are placed in the center.
 author:
-  name: [Aditya Siddheshwar, Nick McIntyre, Jithin KS]
-  url: [https://two-ticks.github.io/, https://mcintyre.io/, https://jithinks.netlify.app/]
+  - name: Aditya Siddheshwar
+    url: https://two-ticks.github.io/
+  - name: Nick McIntyre
+    url: https://mcintyre.io/
+  - name: Jithin KS
+    url: https://jithinks.netlify.app/
