@@ -3,7 +3,7 @@ description: Extend p5 with Quality of Life utilities.
 category: utils
 sourceUrl: https://github.com/error-four-o-four/p5.qol.js
 featuredImage:
-  url: p5.qol.png
+  url: p5qol.png
   altText: The cover image for the library. Displays the name of the library on a deep pink background.
 author:
   name: Jens Bachmayer
