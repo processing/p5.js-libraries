@@ -1,6 +1,6 @@
 name: simple.js
 description: Helper functions and defaults for young and new coders.
-category: learning
+category: teaching
 sourceUrl: https://github.com/makeyourownalgorithmicart/simple.js
 websiteUrl: https://github.com/makeyourownalgorithmicart/simple.js/wiki
 featuredImage:
@@ -9,5 +9,4 @@ featuredImage:
 author:
   name: Tariq Rashid
   url: https://www.youtube.com/@AlgorithmicArt/videos
-npm: "@davepagurek/p5.warp"
 license: GPLv2
