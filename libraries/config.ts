@@ -17,6 +17,7 @@ const categories = [
   "sound",
   "data",
   "networking",
+  "teaching",
   "export",
   "utils",
 ] as const;
