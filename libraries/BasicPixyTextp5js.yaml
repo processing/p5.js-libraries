@@ -1,0 +1,11 @@
+name: BasicPixyTextp5js
+description: A basic pixelated text rendering library for p5 powered by Pixyp5js.
+category: drawing
+sourceUrl: https://github.com/RandomGamingDev/BasicPixyTextp5js
+featuredImage:
+  url: BasicPixyTextp5js.png
+  altText: A pixelated text title with the text "BasicPixyTextp5js" and another smaller piece of pixelated text that says "Create software rendered pixelated text"
+author:
+  name: RandomGamingDev
+  url: https://randomgamingdev.github.io/index.html
+license: MIT
