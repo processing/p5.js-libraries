@@ -1,0 +1,11 @@
+name: p5jsDebugCam
+description: A basic keyboard only debug camera for p5.js
+category: utils
+sourceUrl: https://github.com/RandomGamingDev/p5jsDebugCam/
+featuredImage:
+  url: p5jsDebugCam.png
+  altText: An image of a wireframe platform with the 3d word "p5jsDebugCam" floating on top of it and a debug camera pointed and looking at both
+author:
+  name: RandomGamingDev
+  url: https://randomgamingdev.github.io/index.html
+license: MIT
