@@ -1,3 +1,7 @@
+# ⚠️ Submissions are currently paused! ⚠️
+
+Everything currently merged is going to be on our new version of p5js.org! Any submissions that come in after April 8 will still be added, but may not be present right at launch. **After launch, new libraries will be submitted to the new website repo directly** (link coming soon!)
+
 # p5.js Libraries
 
 p5.js welcomes libraries contributed by others! <a href="https://github.com/processing/p5.js/blob/main/contributor_docs/creating_libraries.md">Check out the libraries tutorial</a> for more specifics about how to create one. If you have created a library and would like to have it included in the list, follow the instructions below!
