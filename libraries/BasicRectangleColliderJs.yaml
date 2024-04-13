@@ -1,0 +1,11 @@
+name: BasicRectangleColliderJs
+description: A basic rectangle collision library made for just non-rotated rectangles that tells you the face collided with and has a collision system where you can have one element be static and one dynamic with the dynamic collider getting pushed away by the other.
+category: physics
+sourceUrl: https://github.com/RandomGamingDev/BasicRectangleColliderJs/
+featuredImage:
+  url: BasicRectangleColliderJs.png
+  altText: The title "BasicRectangleColliderJs" is in the top left, with an example of a non-touching rectangles in white and touching rectangles in red
+author:
+  name: RandomGamingDev
+  url: https://randomgamingdev.github.io/index.html
+license: MIT
