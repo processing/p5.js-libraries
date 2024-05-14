@@ -1,6 +1,6 @@
-# ⚠️ Submissions are currently paused! ⚠️
+# ⚠️ Submissions are moved! ⚠️
 
-Everything currently merged is going to be on our new version of p5js.org! Any submissions that come in after April 8 will still be added, but may not be present right at launch. **After launch, new libraries will be submitted to the new website repo directly** (link coming soon!)
+We have submission instructions on the new `p5.js-website` repo here: https://github.com/processing/p5.js-website/blob/main/contributing_libraries.md
 
 # p5.js Libraries
 
