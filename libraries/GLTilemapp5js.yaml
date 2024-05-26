@@ -1,0 +1,11 @@
+name: GLTilemapp5js
+description: A tilemap library for p5.js's OpenGL mode that is optimized to draw tilemaps within a single draw call using WebGL
+category: drawing
+sourceUrl: https://github.com/RandomGamingDev/GLTilemapp5js/
+featuredImage:
+  url: GLTilemapp5js.png
+  altText: A GLTilemapp5js tilemap with the GLTilemapp5js name in the top right
+author:
+  name: RandomGamingDev
+  url: https://randomgamingdev.github.io/index.html
+license: MIT
