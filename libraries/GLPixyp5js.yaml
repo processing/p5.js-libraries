@@ -1,0 +1,11 @@
+name: GLPixyp5js
+description: It allows the abstraction and simplification reading from and modification of custom WebGL textures which offers much more control when needed for things like GLSL based computation, custom data types for things like depth maps, or more efficient textures in general!
+category: drawing
+sourceUrl: https://github.com/RandomGamingDev/GLPixyp5js/
+featuredImage:
+  url: GLPixyp5js.png
+  altText: The name "GLPixyp5js" written on the top an image of a pixel art computer with a smile as its screen and a projection of its face meant to demonstrate that the library is meant for easily modifying pixels during runtime
+author:
+  name: RandomGamingDev
+  url: https://randomgamingdev.github.io/index.html
+license: MIT
