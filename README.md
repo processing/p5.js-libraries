@@ -1,6 +1,6 @@
 # ⚠️ Submissions are moved! ⚠️
 
-We have submission instructions on the new `p5.js-website` repo here: https://github.com/processing/p5.js-website/blob/main/contributing_libraries.md
+We have submission instructions on the new `p5.js-website` repo here: https://github.com/processing/p5.js-website/blob/main/docs/contributing_libraries.md
 
 # p5.js Libraries
 
