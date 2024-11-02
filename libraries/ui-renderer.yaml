@@ -1,0 +1,12 @@
+name: UI Renderer
+description: It is specifically designed to create own ui, and while being able to create own ui and utility expansions.
+category: shaders
+sourceUrl: https://github.com/amitSah121/p5.js-libraries/tree/main/renderer
+websiteUrl: https://github.com/amitSah121/p5.js-libraries/blob/main/renderer/README.md
+featuredImage:
+  url: ui_renderer.png
+  altText: The cover image for the ui renderer library. Depicts a typical ui
+author:
+  name: Amit Kumar Sah
+  url: https://github.com/amitSah121
+license: MIT
